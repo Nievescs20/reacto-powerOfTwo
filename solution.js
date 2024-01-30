@@ -10,8 +10,8 @@ function isPowerOfTwo(n) {
   }
 }
 
-console.log(isPowerOfTwo(1));
-console.log(isPowerOfTwo(16));
-console.log(isPowerOfTwo(3));
-console.log(isPowerOfTwo(0));
-console.log(isPowerOfTwo(5));
+console.log(isPowerOfTwo(1)); //true
+console.log(isPowerOfTwo(16)); //true
+console.log(isPowerOfTwo(3)); //false
+console.log(isPowerOfTwo(0)); // false
+console.log(isPowerOfTwo(5)); //false
